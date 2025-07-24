@@ -128,4 +128,4 @@ An optional block is provided to test the model on a random test sample:
 
 ## ✨ Credits
 
-Developed by \[Your Name] as a demonstration of predictive modeling in sports analytics.
+Developed by Shubh Harde as a demonstration of predictive modeling in sports analytics.
